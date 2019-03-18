@@ -22,9 +22,14 @@ a:hover{
 	background-color: #0C0A3E;
 }
 
+section{
+	padding-top: 20px;
+}
+
 /* Navigation Styles */
 
 nav{
+	text-align: center;
 	background-color: #0C0A3E;
 }
 
