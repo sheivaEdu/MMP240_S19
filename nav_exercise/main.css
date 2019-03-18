@@ -6,7 +6,8 @@
 	box-sizing: border-box;
 }
 body{
-	font-family: 'Lato', sans-serif;
+	/*font-family: 'Lato', sans-serif;*/
+	font-family: 'Srisakdi', cursive;
 	background-color: #39CCCC;
 	color: #7B1E7A;
 	width: 70%;
@@ -20,6 +21,11 @@ a{
 a:hover{
 	color: #F2C14E;
 	background-color: #0C0A3E;
+}
+
+h1{
+	/*font-family: 'Srisakdi', cursive;*/
+	font-family: 'Lato', sans-serif;
 }
 
 section{
