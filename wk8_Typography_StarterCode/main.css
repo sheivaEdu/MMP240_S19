@@ -26,6 +26,11 @@ body {
   color: #030270;
 }
 
+section{
+	max-width: 770px;
+	margin: auto;
+}
+
 p {margin-bottom: 1.25em;}
 
 h1, h2, h3, h4, h5 {
@@ -49,3 +54,15 @@ h4 {font-size: 1.777em;}
 h5 {font-size: 1.333em;}
 
 small, .text_small {font-size: 0.75em;}
+
+@media only screen and (min-width: 1000px){
+	section{
+		column-count: 2;
+	}
+}
+
+
+
+
+
+
