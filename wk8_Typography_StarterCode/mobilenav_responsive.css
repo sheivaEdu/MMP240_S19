@@ -5,7 +5,7 @@ https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 
 .topnav {
   overflow: hidden;
-  background-color: #2E382E;
+  background-color: #020202;
 
 }
 
@@ -25,7 +25,7 @@ https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 }
 
 .active {
-  background-color: #1B998B;
+  background-color: #7F5A83;
   color: white;
 }
 
